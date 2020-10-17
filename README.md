@@ -5,3 +5,6 @@
 *and*
 
 hello world
+
+test terminal
+
