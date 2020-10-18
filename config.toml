@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://jiaying-portfolio.netlify.app/"
 languageCode = "en-us"
-title = "Try Jiaying Xu"
+title = "Jiaying Xu"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -37,27 +37,23 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Jiaying"
+    subtitle = "portfolio"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
-
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
 
     [[params.navigation.links]]
       name = "Blogs"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "Projects"
+      url = "projects"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+    #[[params.navigation.links]]
+    #name = "Elements"
+    #url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -81,10 +77,10 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Try Hi, my name is Jiaying"
-    subtitle = "again try This is my portfolio website."
+    title = "Hi, my name is Jiaying"
+    subtitle = "This is my portfolio website."
     buttonText = "Get Started"
-
+    image = "banner.jpg"
 
   # Tiles Section
   [params.tiles]
@@ -92,10 +88,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "change blog1 title"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "About Me"
+      subtitle = "Jiaying: My stories"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/blog1"
 
     [[params.tiles.showcase]]
       title = "Tempus"
@@ -187,7 +183,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "London Business School"
 
     # Uses font awesome icons
     [[params.footer.social]]
