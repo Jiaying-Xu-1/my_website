@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://jiaying-portfolio.netlify.app/"
 languageCode = "en-us"
-title = "Jiaying Xu"
+title = "Try Jiaying Xu"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Jiaying"
-    subtitle = "This is my portfolio website."
+    title = "Try Hi, my name is Jiaying"
+    subtitle = "again try This is my portfolio website."
     buttonText = "Get Started"
 
 
@@ -92,7 +92,7 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
+      title = "change blog1 title"
       subtitle = "Ipsum Dolor Sit Amet"
       image = "pic01.jpg"
       url = "blogs/aliquam"
