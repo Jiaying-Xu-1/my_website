@@ -44,16 +44,20 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
+      name = "My stories"
+      url = "#"
+
+    [[params.navigation.links]]
       name = "Blogs"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Projects"
-      url = "projects"
+      name = "Generic Blog"
+      url = "blogs/ipsum"
 
-    #[[params.navigation.links]]
-    #name = "Elements"
-    #url = "elements.html"
+    [[params.navigation.links]]
+      name = "Elements"
+      url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -80,7 +84,7 @@ disqusShortname = ""
     title = "Hi, my name is Jiaying"
     subtitle = "This is my portfolio website."
     buttonText = "Get Started"
-    image = "banner.jpg"
+
 
   # Tiles Section
   [params.tiles]
@@ -91,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Jiaying: My stories"
       image = "pic01.jpg"
-      url = "blogs/blog1"
+      url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
       title = "Tempus"
