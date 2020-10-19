@@ -5,7 +5,7 @@ categories:
 date: "2020-10-19"
 description: ""
 draft: false
-image: pic01.jpg
+image: jiaying.jpg
 keywords: ""
 slug: blog1
 title: About Me
