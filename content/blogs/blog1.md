@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2020-10-19"
-description: "About me"
+description: About me
 draft: false
 image: jiaying_sun.jpg
 keywords: ""
