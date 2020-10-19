@@ -17,6 +17,6 @@ I graduated from Peking University, China.
 
 Currently, I am a MFA student at London Business School. 
 
-This is my personal portfolio website and I will share life my stories and upload recent projects here! 
+This is my personal portfolio website and I will share my life stories and upload recent projects here! 
 
 Stay tuned!
