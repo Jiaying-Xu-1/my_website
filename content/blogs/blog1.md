@@ -2,13 +2,21 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
+date: "2020-10-19"
 description: ""
 draft: false
-image: pic10.jpg
+image: jiaying.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: blog1
+title: About Me
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Hello everyone! Nice to meet you here! I am Jiaying from China. 
+
+I graduated from Peking University, China. 
+
+Currently, I am a MFA student at London Business School. 
+
+This is my personal portfolio website and I will share life my stories and upload recent projects here! 
+
+Stay tuned!
