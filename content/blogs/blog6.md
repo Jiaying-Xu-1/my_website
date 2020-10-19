@@ -5,7 +5,7 @@ categories:
 date: "2020-10-18"
 description: "whatever it means"
 draft: false
-image: pic34.jpg
+image: pic04.jpg
 keywords: ""
 slug: blog6
 title: whatever it means
