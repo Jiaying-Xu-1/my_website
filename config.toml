@@ -109,6 +109,7 @@ disqusShortname = ""
       image = "pic03.jpg"
       url = "blogs/blog3"
 
+    [[params.tiles.showcase]]
       title = "Ipsum"
       subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
