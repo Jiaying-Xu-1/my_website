@@ -44,12 +44,12 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "My stories"
-      url = "#"
-
-    [[params.navigation.links]]
       name = "Blogs"
       url = "blogs"
+
+    [[params.navigation.links]]
+      name = "Projects"
+      url = "projects"
 
     #[[params.navigation.links]]
     #  name = "Generic Blog"
@@ -68,8 +68,8 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+      name = "HOME PAGE"
+      url = "#"
 
     # Button Style 2
     #[[params.navigation.button2]]
@@ -98,16 +98,16 @@ disqusShortname = ""
       url = "blogs/blog1"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
+      title = "try blog 2"
       subtitle = "Feugiat Amet Tempus"
       image = "pic02.jpg"
       url = "blogs/blog2"
 
     [[params.tiles.showcase]]
-      title = "Magna"
+      title = "try blog 3"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/blog3"
 
       title = "Ipsum"
       subtitle = "Nisl Sed Aliquam"
